@@ -1,10 +1,11 @@
+# RAISE-25
 The Master of Public Informatics Program at the Rutgers Bloustein School proudly announces RAISE-25, an innovative Informatics, Data Science, and Artificial Intelligence (AI) competition where students are tasked to envision the scope of AI’s transformative impact on human society. With the theme Our Future with AI: Utopian or Dystopian?, RAISE-25 challenges participants to tackle one of the most profound questions of our time: How will AI shape the future of education, careers, and society?
 
-about
+# About
 
 Our tool is a LLM with access to news reports from the last two years. It classifies each article into utopia or dystopia.
 
-examples
+# Examples
 
 python main.py 'how is AI going to affect in photo searching?'
 
@@ -26,7 +27,7 @@ Getty Images has introduced an updated AI model, emphasizing speed, quality, and
 The proliferation of AI-powered photo organizers underscores the positive impact of AI in streamlining photo management processes. (Unite.AI, 2024)
 Overall, AI's influence on photo searching is a complex interplay between advancements in technology, ethical considerations, and the need for transparency and user empowerment.
 
-instructions
+# Instructions
 
 The tool requires OpenAI api key in the system environment variables.
 
